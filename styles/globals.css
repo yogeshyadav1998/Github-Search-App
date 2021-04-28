@@ -24,7 +24,7 @@ a {
 }
 
 .tsparticles-canvas-el{
-  position: absolute;
+  position: fixed;
   height: 100vh;
   width: 100vw;
 }
